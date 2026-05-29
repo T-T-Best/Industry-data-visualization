@@ -8,7 +8,7 @@ This analysis is based on two fund indices sharing the exact same 74 underlying 
 
 
 ## 2. Systemic Resonance in Crowding
-Despite varying individual asset weights, the **portfolio concentration (HHI) of both strategies moves in complete tandem**, indicating that different quantitative models react uniformly to market opportunities and shocks (the root of systemic crowding). Due to high strategic homogeneity, I successfully captured **"Crowded Unwind" events** characterized by spikes in turnover and sudden drops in portfolio similarity.
+Despite varying individual asset weights, the **portfolio concentration (HHI) of both strategies moves in complete tandem**, indicating that different quantitative models react uniformly to market opportunities and shocks (the root of systemic crowding). Due to high strategic homogeneity, I think I've captured **"Crowded Unwind" events** characterized by spikes in turnover and sudden drops in portfolio similarity.
 
 <img width="1486" height="1174" alt="image" src="https://github.com/user-attachments/assets/65e73506-442f-49f9-a754-000b7950faec" />
 <img width="1980" height="593" alt="image" src="https://github.com/user-attachments/assets/3d833cec-20a9-41aa-8bf9-633524d10348" />
